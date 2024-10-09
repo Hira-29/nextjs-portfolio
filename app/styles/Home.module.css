@@ -1,0 +1,19 @@
+.navbar {
+    
+    display:flex;
+    gap: 40px;
+    justify-content:right;
+   
+    padding: 20px;
+    font-weight: bold;
+    list-style-type: none;
+    background-color:navy;
+    color:white;
+    height:40px;
+   
+    
+}
+
+
+ 
+
